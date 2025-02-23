@@ -23,7 +23,7 @@ Este projeto apresenta uma Pokedex onde o usuário pode interagir com cada pokem
 
 ## Como rodar meu projeto 💻
 
-1 - Clone meu repositório
-2 - Instale as dependências usando 'npm install'
-3 - Rode localmente com 'npm run dev'
-4 - Acesse no navegador
+- Clone meu repositório
+- Instale as dependências usando 'npm install'
+- Rode localmente com 'npm run dev'
+- Acesse no navegador
